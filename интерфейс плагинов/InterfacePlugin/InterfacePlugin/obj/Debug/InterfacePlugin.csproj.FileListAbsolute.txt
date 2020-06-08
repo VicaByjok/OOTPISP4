@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\InterfacePlugin\InterfacePlugin\bin\Debug\InterfacePlugin.dll
+C:\Users\User\source\repos\InterfacePlugin\InterfacePlugin\bin\Debug\InterfacePlugin.pdb
+C:\Users\User\source\repos\InterfacePlugin\InterfacePlugin\obj\Debug\InterfacePlugin.csprojAssemblyReference.cache
+C:\Users\User\source\repos\InterfacePlugin\InterfacePlugin\obj\Debug\InterfacePlugin.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InterfacePlugin\InterfacePlugin\obj\Debug\InterfacePlugin.dll
+C:\Users\User\source\repos\InterfacePlugin\InterfacePlugin\obj\Debug\InterfacePlugin.pdb
+C:\Users\laptop\Desktop\ооп 4\интерфейс плагинов(не интересно)\InterfacePlugin\InterfacePlugin\bin\Debug\InterfacePlugin.dll
+C:\Users\laptop\Desktop\ооп 4\интерфейс плагинов(не интересно)\InterfacePlugin\InterfacePlugin\bin\Debug\InterfacePlugin.pdb
+C:\Users\laptop\Desktop\ооп 4\интерфейс плагинов(не интересно)\InterfacePlugin\InterfacePlugin\obj\Debug\InterfacePlugin.csprojAssemblyReference.cache
+C:\Users\laptop\Desktop\ооп 4\интерфейс плагинов(не интересно)\InterfacePlugin\InterfacePlugin\obj\Debug\InterfacePlugin.csproj.CoreCompileInputs.cache
+C:\Users\laptop\Desktop\ооп 4\интерфейс плагинов(не интересно)\InterfacePlugin\InterfacePlugin\obj\Debug\InterfacePlugin.dll
+C:\Users\laptop\Desktop\ооп 4\интерфейс плагинов(не интересно)\InterfacePlugin\InterfacePlugin\obj\Debug\InterfacePlugin.pdb
