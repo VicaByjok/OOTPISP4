@@ -1,0 +1,117 @@
+=====
+labaoop2.Classes.Animal
+   Name=Корова
+   Size=100
+   Habitat=Равнина
+   Gender=True
+=====
+labaoop2.Classes.Honey
+   Name=Мёд липовый
+   Type_Of_Flowers=Липа
+   Density=30
+=====
+labaoop2.Classes.Insect
+   Wings=True
+   Toxity=100
+   Name=Комар
+   Size=5
+   Habitat=Дом, лес, болота
+   Gender=False
+=====
+labaoop2.Classes.Mammals
+   Color=Серый
+   LifeTime=15
+   Name=Заяц
+   Size=20
+   Habitat=Лес
+   Gender=True
+=====
+labaoop2.Classes.Fish
+   Squama=Серибристая
+   Depth=20
+   Name=Окунь
+   Size=15
+   Habitat=Озеро
+   Gender=True
+=====
+labaoop2.Classes.Bee
+   Domesticated=True
+   Caste=Рабочий
+   Honey={
+—labaoop2.Classes.Honey
+   Name=Медок
+   Type_Of_Flowers=Луговые цветы
+   Density=20
+}
+   Wings=True
+   Toxity=40
+   Name=Пчела обычная
+   Size=3
+   Habitat=Улей
+   Gender=False
+=====
+labaoop2.Classes.Ant
+   Kind=Красный
+   Caste=Рабочий
+   Wings=False
+   Toxity=50
+   Name=Муравей
+   Size=2
+   Habitat=Муравейник
+   Gender=True
+=====
+labaoop2.Classes.AntEater
+   MainFood={
+—labaoop2.Classes.Ant
+   Kind=Красный/чёрный
+   Caste=Любая
+   Wings=False
+   Toxity=50
+   Name=Любой муравей
+   Size=2
+   Habitat=Муравейник
+   Gender=False
+}
+   Length_Of_Tongue=70
+   Color=Серый
+   LifeTime=30
+   Name=Муравьед
+   Size=35
+   Habitat=Лес
+   Gender=True
+=====
+labaoop2.Classes.Bear
+   PriorityFood={
+—labaoop2.Classes.Salmon
+   Calories=2000
+   Mass=5
+   Squama=Серибристый
+   Depth=30
+   Name=Лосось
+   Size=30
+   Habitat=Море
+   Gender=True
+}
+   SecondaryFood={
+—labaoop2.Classes.Honey
+   Name=Медок
+   Type_Of_Flowers=Любые цветы
+   Density=30
+}
+   Fat=100
+   Color=Чёрный
+   LifeTime=50
+   Name=Медведь
+   Size=70
+   Habitat=Лес
+   Gender=True
+=====
+labaoop2.Classes.Salmon
+   Calories=2000
+   Mass=3
+   Squama=Серибристый
+   Depth=50
+   Name=Лосось
+   Size=5
+   Habitat=Море
+   Gender=False

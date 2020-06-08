@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<MyClassCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Collection>
+    <Item xsi:type="Animal">
+      <Name>Корова</Name>
+      <Size>100</Size>
+      <Habitat>Равнина</Habitat>
+      <Gender>true</Gender>
+    </Item>
+    <Item xsi:type="Honey">
+      <Name>Мёд липовый</Name>
+      <Type_Of_Flowers>Липа</Type_Of_Flowers>
+      <Density>30</Density>
+    </Item>
+    <Item xsi:type="Insect">
+      <Name>Комар</Name>
+      <Size>5</Size>
+      <Habitat>Дом, лес, болота</Habitat>
+      <Gender>false</Gender>
+      <Wings>true</Wings>
+      <Toxity>100</Toxity>
+    </Item>
+    <Item xsi:type="Mammals">
+      <Name>Заяц</Name>
+      <Size>20</Size>
+      <Habitat>Лес</Habitat>
+      <Gender>true</Gender>
+      <Color>Серый</Color>
+      <LifeTime>15</LifeTime>
+    </Item>
+    <Item xsi:type="Fish">
+      <Name>Окунь</Name>
+      <Size>15</Size>
+      <Habitat>Озеро</Habitat>
+      <Gender>true</Gender>
+      <Squama>Серибристая</Squama>
+      <Depth>20</Depth>
+    </Item>
+    <Item xsi:type="Bee">
+      <Name>Пчела обычная</Name>
+      <Size>3</Size>
+      <Habitat>Улей</Habitat>
+      <Gender>false</Gender>
+      <Wings>true</Wings>
+      <Toxity>40</Toxity>
+      <Domesticated>true</Domesticated>
+      <Caste>Рабочий</Caste>
+      <Honey>
+        <Name>Медок</Name>
+        <Type_Of_Flowers>Луговые цветы</Type_Of_Flowers>
+        <Density>20</Density>
+      </Honey>
+    </Item>
+    <Item xsi:type="Ant">
+      <Name>Муравей</Name>
+      <Size>2</Size>
+      <Habitat>Муравейник</Habitat>
+      <Gender>true</Gender>
+      <Wings>false</Wings>
+      <Toxity>50</Toxity>
+      <Kind>Красный</Kind>
+      <Caste>Рабочий</Caste>
+    </Item>
+    <Item xsi:type="AntEater">
+      <Name>Муравьед</Name>
+      <Size>35</Size>
+      <Habitat>Лес</Habitat>
+      <Gender>true</Gender>
+      <Color>Серый</Color>
+      <LifeTime>30</LifeTime>
+      <MainFood>
+        <Name>Любой муравей</Name>
+        <Size>2</Size>
+        <Habitat>Муравейник</Habitat>
+        <Gender>false</Gender>
+        <Wings>false</Wings>
+        <Toxity>50</Toxity>
+        <Kind>Красный/чёрный</Kind>
+        <Caste>Любая</Caste>
+      </MainFood>
+      <Length_Of_Tongue>70</Length_Of_Tongue>
+    </Item>
+    <Item xsi:type="Bear">
+      <Name>Медведь</Name>
+      <Size>70</Size>
+      <Habitat>Лес</Habitat>
+      <Gender>true</Gender>
+      <Color>Чёрный</Color>
+      <LifeTime>50</LifeTime>
+      <PriorityFood>
+        <Name>Лосось</Name>
+        <Size>30</Size>
+        <Habitat>Море</Habitat>
+        <Gender>true</Gender>
+        <Squama>Серибристый</Squama>
+        <Depth>30</Depth>
+        <Calories>2000</Calories>
+        <Mass>5</Mass>
+      </PriorityFood>
+      <SecondaryFood>
+        <Name>Медок</Name>
+        <Type_Of_Flowers>Любые цветы</Type_Of_Flowers>
+        <Density>30</Density>
+      </SecondaryFood>
+      <Fat>100</Fat>
+    </Item>
+    <Item xsi:type="Salmon">
+      <Name>Лосось</Name>
+      <Size>5</Size>
+      <Habitat>Море</Habitat>
+      <Gender>false</Gender>
+      <Squama>Серибристый</Squama>
+      <Depth>50</Depth>
+      <Calories>2000</Calories>
+      <Mass>3</Mass>
+    </Item>
+  </Collection>
+</MyClassCollection>
